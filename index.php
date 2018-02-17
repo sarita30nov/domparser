@@ -1,6 +1,6 @@
 <?php
 /*
- * @Author: Manjeet Kumar Patel
+ * @Author: Manjeet Kumar Patel <manjeetkumar15@gmail.com> Mob : +91 9990050330  Expert in Website parser
  * @Description: This script parse data from url : https://supermarket.londis.co.uk 
     * By using simple_html_dom dome library 
  * @Created: 6 Feb 2018
